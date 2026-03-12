@@ -19,7 +19,7 @@ namespace Logic
 
     public static class Actions
     {
-        private const string API_ADDRESS = "http://localhost:31415";
+ 	private const string API_ADDRESS = "https://localhost:5001";
         private static string token = null;
 
         /// <summary>

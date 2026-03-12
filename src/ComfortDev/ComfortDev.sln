@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComfortDev.API", "ComfortDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComfortDev.Common", "ComfortDev.Common\ComfortDev.Common.csproj", "{F1720AAA-6302-4B09-8AB8-B9D3AA493F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortDev.Tests", "ComfortDev.Tests\ComfortDev.Tests.csproj", "{5E9AD6F5-E56B-4DB5-985E-CD835794540B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComfortDev.Tests", "ComfortDev.Tests\ComfortDev.Tests.csproj", "{5E9AD6F5-E56B-4DB5-985E-CD835794540B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
